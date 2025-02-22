@@ -2,13 +2,13 @@
 
 :desktop_computer: Lucas Spartacus
 
-Estrutura projeto:
+###  Estrutura projeto:
 
-Back-end - node.js usando arquitetura REST
-Front-end - JavaScript, React usando principalmente a biblioteca react-bootstrap para estilização
-Banco de dados - MongoDB, Nome do banco do projeto: eventCalendar
+- Back-end - node.js usando arquitetura REST
+- Front-end - JavaScript, React usando principalmente a biblioteca react-bootstrap para estilização
+- Banco de dados - MongoDB, Nome do banco do projeto: eventCalendar
 
-Rodar Projeto:
+###  Rodar Projeto:
 
 Primeiramente rode o seguinte comando na página calendario-de-eventos-backend para baixar as dependências do back-end
 
