@@ -1,3 +1,7 @@
+:test_tube: Web - Desafio Técnico Tokenlab
+
+:desktop_computer: Lucas Spartacus
+
 Estrutura projeto:
 
 Back-end - node.js usando arquitetura REST
